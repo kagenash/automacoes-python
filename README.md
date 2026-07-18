@@ -1,3 +1,5 @@
+🇧🇷 **Português** | 🇺🇸 [English](README.en.md)
+
 # Automações em Python
 
 Coleção de automações em Python voltadas a rotinas de dados e produtividade: ETL, qualidade de dados, geração de relatórios, organização de arquivos, backups e coleta via API. Cada script é autocontido, com CLI (`argparse`), logging e tratamento de erros — prontos para uso direto ou agendamento via cron / Task Scheduler.
