@@ -1,0 +1,501 @@
+data,regiao,produto,categoria,quantidade,preco_unitario,receita
+2025-01-01,Norte,Monitor,Eletrônicos,3,1283.15,3849.45
+2025-01-01,Sul,Mouse,Periféricos,6,129.54,777.24
+2025-01-01,Sudeste,Monitor,Eletrônicos,1,1091.66,1091.66
+2025-01-03,Nordeste,Mesa,Móveis,5,868.05,4340.25
+2025-01-03,Sudeste,Mesa,Móveis,1,894.31,894.31
+2025-01-04,Sudeste,Notebook,Eletrônicos,7,3275.64,22929.48
+2025-01-08,Nordeste,Notebook,Eletrônicos,7,3245.77,22720.39
+2025-01-08,Sudeste,Cadeira Gamer,Móveis,6,1357.45,8144.7
+2025-01-09,Sudeste,Notebook,Eletrônicos,3,3649.28,10947.84
+2025-01-09,Sudeste,Cadeira Gamer,Móveis,2,1563.47,3126.94
+2025-01-10,Nordeste,Monitor,Eletrônicos,7,1213.06,8491.42
+2025-01-10,Norte,Notebook,Eletrônicos,7,3761.72,26332.04
+2025-01-10,Sudeste,Cadeira Gamer,Móveis,6,1360.75,8164.5
+2025-01-10,Sudeste,Notebook,Eletrônicos,1,3356.34,3356.34
+2025-01-12,Nordeste,Monitor,Eletrônicos,7,1091.37,7639.59
+2025-01-12,Sul,Mesa,Móveis,7,988.81,6921.67
+2025-01-13,Sul,Notebook,Eletrônicos,5,3566.2,17831.0
+2025-01-15,Sudeste,Cadeira Gamer,Móveis,1,1399.13,1399.13
+2025-01-15,Centro-Oeste,Teclado,Periféricos,2,232.77,465.54
+2025-01-16,Sudeste,Monitor,Eletrônicos,1,1180.63,1180.63
+2025-01-17,Sudeste,Teclado,Periféricos,4,262.18,1048.72
+2025-01-19,Nordeste,Monitor,Eletrônicos,2,1290.41,2580.82
+2025-01-19,Sul,Cadeira Gamer,Móveis,1,1398.82,1398.82
+2025-01-20,Norte,Monitor,Eletrônicos,2,1220.31,2440.62
+2025-01-21,Sudeste,Mouse,Periféricos,3,109.2,327.6
+2025-01-22,Sudeste,Notebook,Eletrônicos,3,3520.82,10562.46
+2025-01-23,Centro-Oeste,Teclado,Periféricos,1,273.96,273.96
+2025-01-23,Sudeste,Cadeira Gamer,Móveis,5,1615.92,8079.6
+2025-01-24,Centro-Oeste,Mouse,Periféricos,2,122.66,245.32
+2025-01-24,Nordeste,Mouse,Periféricos,4,121.33,485.32
+2025-01-25,Nordeste,Cadeira Gamer,Móveis,7,1354.97,9484.79
+2025-01-25,Sudeste,Teclado,Periféricos,4,230.02,920.08
+2025-01-26,Sudeste,Mesa,Móveis,3,819.17,2457.51
+2025-01-27,Sudeste,Cadeira Gamer,Móveis,3,1385.9,4157.7
+2025-01-29,Sudeste,Mouse,Periféricos,3,120.77,362.31
+2025-02-01,Sudeste,Cadeira Gamer,Móveis,1,1614.11,1614.11
+2025-02-01,Sudeste,Mouse,Periféricos,5,129.7,648.5
+2025-02-03,Sul,Notebook,Eletrônicos,2,3421.49,6842.98
+2025-02-03,Sudeste,Mesa,Móveis,7,902.62,6318.34
+2025-02-03,Sul,Teclado,Periféricos,6,251.57,1509.42
+2025-02-04,Sudeste,Mouse,Periféricos,6,108.22,649.32
+2025-02-04,Sudeste,Teclado,Periféricos,5,237.24,1186.2
+2025-02-05,Nordeste,Notebook,Eletrônicos,6,3250.6,19503.6
+2025-02-06,Sudeste,Cadeira Gamer,Móveis,3,1359.02,4077.06
+2025-02-06,Sul,Monitor,Eletrônicos,1,1092.12,1092.12
+2025-02-07,Nordeste,Cadeira Gamer,Móveis,4,1535.03,6140.12
+2025-02-08,Centro-Oeste,Mesa,Móveis,3,975.39,2926.17
+2025-02-08,Sudeste,Cadeira Gamer,Móveis,5,1624.59,8122.95
+2025-02-08,Sul,Mouse,Periféricos,2,115.72,231.44
+2025-02-10,Nordeste,Mouse,Periféricos,2,108.03,216.06
+2025-02-12,Nordeste,Cadeira Gamer,Móveis,7,1586.28,11103.96
+2025-02-12,Sudeste,Teclado,Periféricos,6,270.13,1620.78
+2025-02-13,Sudeste,Mouse,Periféricos,1,110.66,110.66
+2025-02-13,Sudeste,Mesa,Móveis,6,912.59,5475.54
+2025-02-15,Sudeste,Cadeira Gamer,Móveis,1,1452.18,1452.18
+2025-02-17,Norte,Mouse,Periféricos,3,130.02,390.06
+2025-02-17,Centro-Oeste,Mesa,Móveis,4,953.98,3815.92
+2025-02-17,Sudeste,Notebook,Eletrônicos,1,3654.49,3654.49
+2025-02-18,Nordeste,Notebook,Eletrônicos,4,3357.22,13428.88
+2025-02-19,Sudeste,Notebook,Eletrônicos,4,3281.07,13124.28
+2025-02-19,Sudeste,Cadeira Gamer,Móveis,1,1587.59,1587.59
+2025-02-20,Sudeste,Cadeira Gamer,Móveis,6,1445.74,8674.44
+2025-02-20,Sudeste,Cadeira Gamer,Móveis,4,1492.88,5971.52
+2025-02-20,Sul,Mouse,Periféricos,4,110.74,442.96
+2025-02-20,Sudeste,Cadeira Gamer,Móveis,6,1465.35,8792.1
+2025-02-22,Sul,Cadeira Gamer,Móveis,3,1445.15,4335.45
+2025-02-23,Centro-Oeste,Mouse,Periféricos,1,114.09,114.09
+2025-02-24,Sul,Teclado,Periféricos,4,267.18,1068.72
+2025-02-25,Centro-Oeste,Cadeira Gamer,Móveis,2,1601.21,3202.42
+2025-02-25,Sudeste,Cadeira Gamer,Móveis,6,1366.67,8200.02
+2025-02-26,Sul,Mouse,Periféricos,1,112.15,112.15
+2025-02-26,Sudeste,Cadeira Gamer,Móveis,3,1584.17,4752.51
+2025-02-26,Sudeste,Teclado,Periféricos,7,246.65,1726.55
+2025-02-27,Nordeste,Mesa,Móveis,4,838.86,3355.44
+2025-03-01,Norte,Mesa,Móveis,3,811.32,2433.96
+2025-03-01,Norte,Notebook,Eletrônicos,4,3219.9,12879.6
+2025-03-01,Nordeste,Cadeira Gamer,Móveis,2,1471.46,2942.92
+2025-03-03,Centro-Oeste,Notebook,Eletrônicos,7,3311.9,23183.3
+2025-03-03,Sudeste,Mesa,Móveis,1,863.89,863.89
+2025-03-03,Sudeste,Mesa,Móveis,7,813.43,5694.01
+2025-03-04,Sudeste,Cadeira Gamer,Móveis,6,1621.0,9726.0
+2025-03-04,Sudeste,Cadeira Gamer,Móveis,6,1490.8,8944.8
+2025-03-04,Nordeste,Monitor,Eletrônicos,2,1161.44,2322.88
+2025-03-06,Sudeste,Cadeira Gamer,Móveis,1,1411.32,1411.32
+2025-03-06,Sul,Monitor,Eletrônicos,6,1271.54,7629.24
+2025-03-06,Nordeste,Teclado,Periféricos,6,225.24,1351.44
+2025-03-06,Nordeste,Teclado,Periféricos,3,246.57,739.71
+2025-03-06,Sul,Notebook,Eletrônicos,4,3153.15,12612.6
+2025-03-06,Centro-Oeste,Notebook,Eletrônicos,5,3430.32,17151.6
+2025-03-06,Sul,Monitor,Eletrônicos,2,1249.3,2498.6
+2025-03-07,Sul,Notebook,Eletrônicos,1,3436.4,3436.4
+2025-03-07,Nordeste,Monitor,Eletrônicos,4,1257.99,5031.96
+2025-03-09,Norte,Notebook,Eletrônicos,6,3287.72,19726.32
+2025-03-11,Sul,Cadeira Gamer,Móveis,7,1451.54,10160.78
+2025-03-12,Sudeste,Mesa,Móveis,5,981.96,4909.8
+2025-03-12,Sudeste,Monitor,Eletrônicos,5,1309.18,6545.9
+2025-03-13,Nordeste,Mesa,Móveis,5,896.77,4483.85
+2025-03-14,Sul,Teclado,Periféricos,7,254.92,1784.44
+2025-03-15,Centro-Oeste,Monitor,Eletrônicos,6,1115.85,6695.1
+2025-03-15,Sul,Mouse,Periféricos,5,125.61,628.05
+2025-03-16,Nordeste,Teclado,Periféricos,5,246.9,1234.5
+2025-03-17,Sul,Teclado,Periféricos,4,270.84,1083.36
+2025-03-18,Sul,Cadeira Gamer,Móveis,6,1505.11,9030.66
+2025-03-18,Sudeste,Teclado,Periféricos,3,255.96,767.88
+2025-03-19,Nordeste,Teclado,Periféricos,4,245.68,982.72
+2025-03-20,Centro-Oeste,Mesa,Móveis,1,847.39,847.39
+2025-03-20,Sudeste,Notebook,Eletrônicos,3,3454.19,10362.57
+2025-03-21,Sudeste,Teclado,Periféricos,7,241.27,1688.89
+2025-03-22,Sudeste,Mesa,Móveis,1,968.11,968.11
+2025-03-22,Sudeste,Mouse,Periféricos,7,110.37,772.59
+2025-03-23,Sudeste,Notebook,Eletrônicos,6,3151.16,18906.96
+2025-03-23,Sudeste,Monitor,Eletrônicos,3,1254.04,3762.12
+2025-03-24,Nordeste,Monitor,Eletrônicos,6,1110.46,6662.76
+2025-03-27,Norte,Monitor,Eletrônicos,4,1185.21,4740.84
+2025-03-27,Sudeste,Cadeira Gamer,Móveis,5,1528.56,7642.8
+2025-03-27,Sudeste,Mesa,Móveis,6,867.17,5203.02
+2025-03-29,Nordeste,Notebook,Eletrônicos,1,3291.39,3291.39
+2025-03-30,Sudeste,Monitor,Eletrônicos,1,1138.2,1138.2
+2025-03-31,Norte,Mouse,Periféricos,6,129.28,775.68
+2025-03-31,Centro-Oeste,Teclado,Periféricos,5,242.07,1210.35
+2025-04-01,Sudeste,Notebook,Eletrônicos,5,3584.25,17921.25
+2025-04-02,Norte,Mouse,Periféricos,6,112.97,677.82
+2025-04-02,Norte,Monitor,Eletrônicos,1,1124.58,1124.58
+2025-04-04,Sudeste,Mouse,Periféricos,2,117.88,235.76
+2025-04-04,Nordeste,Monitor,Eletrônicos,1,1293.52,1293.52
+2025-04-05,Sudeste,Mouse,Periféricos,7,128.41,898.87
+2025-04-05,Sul,Teclado,Periféricos,5,272.96,1364.8
+2025-04-05,Sudeste,Notebook,Eletrônicos,6,3246.46,19478.76
+2025-04-05,Sudeste,Mesa,Móveis,7,827.46,5792.22
+2025-04-07,Sudeste,Mesa,Móveis,4,945.15,3780.6
+2025-04-08,Sul,Monitor,Eletrônicos,4,1175.08,4700.32
+2025-04-08,Sudeste,Teclado,Periféricos,1,261.93,261.93
+2025-04-09,Sul,Teclado,Periféricos,3,240.1,720.3
+2025-04-09,Sul,Cadeira Gamer,Móveis,5,1570.54,7852.7
+2025-04-11,Sudeste,Cadeira Gamer,Móveis,4,1584.6,6338.4
+2025-04-12,Sudeste,Notebook,Eletrônicos,6,3249.12,19494.72
+2025-04-13,Norte,Mouse,Periféricos,1,108.1,108.1
+2025-04-13,Nordeste,Teclado,Periféricos,7,261.62,1831.34
+2025-04-13,Nordeste,Monitor,Eletrônicos,6,1212.74,7276.44
+2025-04-14,Sudeste,Cadeira Gamer,Móveis,7,1482.03,10374.21
+2025-04-15,Nordeste,Teclado,Periféricos,2,257.65,515.3
+2025-04-15,Sudeste,Mouse,Periféricos,7,113.64,795.48
+2025-04-16,Sul,Mouse,Periféricos,4,118.92,475.68
+2025-04-16,Norte,Teclado,Periféricos,6,242.16,1452.96
+2025-04-16,Sul,Notebook,Eletrônicos,5,3842.39,19211.95
+2025-04-16,Nordeste,Monitor,Eletrônicos,1,1128.5,1128.5
+2025-04-16,Sudeste,Monitor,Eletrônicos,2,1153.07,2306.14
+2025-04-17,Norte,Teclado,Periféricos,6,262.12,1572.72
+2025-04-18,Centro-Oeste,Mouse,Periféricos,4,124.4,497.6
+2025-04-19,Centro-Oeste,Notebook,Eletrônicos,1,3563.14,3563.14
+2025-04-20,Sudeste,Notebook,Eletrônicos,5,3817.24,19086.2
+2025-04-21,Norte,Mouse,Periféricos,3,128.56,385.68
+2025-04-21,Sul,Monitor,Eletrônicos,3,1116.16,3348.48
+2025-04-22,Sudeste,Notebook,Eletrônicos,3,3444.27,10332.81
+2025-04-22,Centro-Oeste,Cadeira Gamer,Móveis,6,1407.48,8444.88
+2025-04-23,Nordeste,Monitor,Eletrônicos,3,1201.75,3605.25
+2025-04-23,Nordeste,Notebook,Eletrônicos,3,3705.58,11116.74
+2025-04-23,Sudeste,Mesa,Móveis,3,848.19,2544.57
+2025-04-25,Sudeste,Notebook,Eletrônicos,5,3682.01,18410.05
+2025-04-26,Sul,Monitor,Eletrônicos,4,1273.78,5095.12
+2025-04-27,Sudeste,Cadeira Gamer,Móveis,5,1490.63,7453.15
+2025-04-27,Sul,Notebook,Eletrônicos,7,3548.45,24839.15
+2025-04-27,Centro-Oeste,Cadeira Gamer,Móveis,1,1401.9,1401.9
+2025-04-27,Sudeste,Monitor,Eletrônicos,5,1137.99,5689.95
+2025-04-27,Sul,Mouse,Periféricos,3,127.25,381.75
+2025-04-28,Sudeste,Monitor,Eletrônicos,5,1294.95,6474.75
+2025-04-28,Sudeste,Monitor,Eletrônicos,4,1179.37,4717.48
+2025-04-29,Sul,Notebook,Eletrônicos,1,3223.49,3223.49
+2025-04-29,Norte,Monitor,Eletrônicos,4,1246.34,4985.36
+2025-04-29,Sul,Cadeira Gamer,Móveis,1,1486.34,1486.34
+2025-04-30,Centro-Oeste,Cadeira Gamer,Móveis,7,1484.46,10391.22
+2025-04-30,Sul,Mesa,Móveis,4,882.24,3528.96
+2025-04-30,Sudeste,Mesa,Móveis,2,881.1,1762.2
+2025-05-01,Nordeste,Notebook,Eletrônicos,5,3406.63,17033.15
+2025-05-02,Nordeste,Cadeira Gamer,Móveis,3,1469.08,4407.24
+2025-05-03,Norte,Cadeira Gamer,Móveis,2,1612.29,3224.58
+2025-05-04,Sudeste,Teclado,Periféricos,6,268.28,1609.68
+2025-05-04,Sul,Mouse,Periféricos,1,115.07,115.07
+2025-05-05,Sudeste,Mesa,Móveis,3,922.09,2766.27
+2025-05-05,Nordeste,Cadeira Gamer,Móveis,2,1510.97,3021.94
+2025-05-05,Nordeste,Notebook,Eletrônicos,1,3688.04,3688.04
+2025-05-05,Nordeste,Monitor,Eletrônicos,5,1222.97,6114.85
+2025-05-06,Centro-Oeste,Teclado,Periféricos,5,232.64,1163.2
+2025-05-06,Sul,Teclado,Periféricos,7,240.55,1683.85
+2025-05-08,Nordeste,Teclado,Periféricos,2,233.27,466.54
+2025-05-09,Sudeste,Teclado,Periféricos,5,270.94,1354.7
+2025-05-11,Nordeste,Mouse,Periféricos,6,127.07,762.42
+2025-05-12,Nordeste,Teclado,Periféricos,6,234.05,1404.3
+2025-05-12,Nordeste,Monitor,Eletrônicos,5,1300.96,6504.8
+2025-05-13,Sudeste,Cadeira Gamer,Móveis,7,1435.36,10047.52
+2025-05-13,Centro-Oeste,Mesa,Móveis,6,921.94,5531.64
+2025-05-13,Nordeste,Mesa,Móveis,5,857.62,4288.1
+2025-05-14,Centro-Oeste,Teclado,Periféricos,4,237.07,948.28
+2025-05-14,Norte,Notebook,Eletrônicos,4,3313.0,13252.0
+2025-05-15,Sudeste,Mesa,Móveis,6,894.56,5367.36
+2025-05-15,Sudeste,Notebook,Eletrônicos,2,3691.06,7382.12
+2025-05-16,Norte,Notebook,Eletrônicos,5,3837.66,19188.3
+2025-05-16,Sudeste,Teclado,Periféricos,3,249.78,749.34
+2025-05-21,Norte,Teclado,Periféricos,4,272.97,1091.88
+2025-05-21,Sul,Cadeira Gamer,Móveis,3,1605.58,4816.74
+2025-05-23,Nordeste,Monitor,Eletrônicos,6,1124.44,6746.64
+2025-05-24,Sul,Mesa,Móveis,6,961.56,5769.36
+2025-05-24,Sudeste,Cadeira Gamer,Móveis,6,1525.93,9155.58
+2025-05-24,Sudeste,Monitor,Eletrônicos,5,1271.05,6355.25
+2025-05-24,Nordeste,Monitor,Eletrônicos,2,1192.23,2384.46
+2025-05-25,Centro-Oeste,Cadeira Gamer,Móveis,1,1414.91,1414.91
+2025-05-26,Sudeste,Mouse,Periféricos,7,130.11,910.77
+2025-05-26,Norte,Mouse,Periféricos,3,116.94,350.82
+2025-05-26,Sudeste,Teclado,Periféricos,1,243.86,243.86
+2025-05-27,Sudeste,Teclado,Periféricos,2,249.13,498.26
+2025-05-27,Sudeste,Teclado,Periféricos,7,268.27,1877.89
+2025-05-27,Sul,Cadeira Gamer,Móveis,6,1380.9,8285.4
+2025-05-28,Centro-Oeste,Teclado,Periféricos,1,234.38,234.38
+2025-05-28,Norte,Cadeira Gamer,Móveis,6,1497.99,8987.94
+2025-05-29,Centro-Oeste,Teclado,Periféricos,3,250.24,750.72
+2025-05-30,Sudeste,Mouse,Periféricos,6,129.53,777.18
+2025-05-31,Norte,Notebook,Eletrônicos,2,3663.45,7326.9
+2025-06-01,Sudeste,Mouse,Periféricos,7,115.53,808.71
+2025-06-01,Nordeste,Teclado,Periféricos,4,230.95,923.8
+2025-06-02,Nordeste,Monitor,Eletrônicos,4,1301.71,5206.84
+2025-06-02,Centro-Oeste,Mouse,Periféricos,5,121.27,606.35
+2025-06-02,Sul,Teclado,Periféricos,1,255.04,255.04
+2025-06-03,Centro-Oeste,Teclado,Periféricos,4,251.98,1007.92
+2025-06-04,Sudeste,Mouse,Periféricos,3,108.3,324.9
+2025-06-04,Nordeste,Notebook,Eletrônicos,2,3738.84,7477.68
+2025-06-04,Sul,Monitor,Eletrônicos,1,1310.35,1310.35
+2025-06-04,Sudeste,Cadeira Gamer,Móveis,2,1532.44,3064.88
+2025-06-05,Sudeste,Teclado,Periféricos,7,267.67,1873.69
+2025-06-08,Nordeste,Notebook,Eletrônicos,4,3370.12,13480.48
+2025-06-09,Sudeste,Cadeira Gamer,Móveis,1,1510.86,1510.86
+2025-06-10,Norte,Cadeira Gamer,Móveis,2,1364.61,2729.22
+2025-06-10,Sul,Monitor,Eletrônicos,4,1220.91,4883.64
+2025-06-11,Norte,Notebook,Eletrônicos,6,3747.34,22484.04
+2025-06-12,Sudeste,Mesa,Móveis,3,964.46,2893.38
+2025-06-13,Centro-Oeste,Mesa,Móveis,6,918.32,5509.92
+2025-06-14,Sul,Mouse,Periféricos,1,128.07,128.07
+2025-06-14,Sudeste,Teclado,Periféricos,4,263.62,1054.48
+2025-06-14,Sul,Notebook,Eletrônicos,4,3543.52,14174.08
+2025-06-15,Nordeste,Cadeira Gamer,Móveis,1,1451.84,1451.84
+2025-06-15,Sudeste,Teclado,Periféricos,4,244.63,978.52
+2025-06-15,Nordeste,Notebook,Eletrônicos,5,3753.94,18769.7
+2025-06-15,Sudeste,Mesa,Móveis,6,946.52,5679.12
+2025-06-15,Sudeste,Teclado,Periféricos,1,239.16,239.16
+2025-06-16,Sul,Mouse,Periféricos,7,116.77,817.39
+2025-06-17,Nordeste,Teclado,Periféricos,7,250.18,1751.26
+2025-06-18,Nordeste,Mesa,Móveis,6,962.9,5777.4
+2025-06-18,Norte,Monitor,Eletrônicos,4,1260.47,5041.88
+2025-06-18,Sul,Teclado,Periféricos,5,266.36,1331.8
+2025-06-19,Centro-Oeste,Teclado,Periféricos,2,270.63,541.26
+2025-06-19,Sudeste,Monitor,Eletrônicos,7,1298.29,9088.03
+2025-06-19,Sudeste,Notebook,Eletrônicos,7,3816.57,26715.99
+2025-06-19,Sudeste,Mesa,Móveis,3,855.44,2566.32
+2025-06-21,Nordeste,Notebook,Eletrônicos,3,3262.88,9788.64
+2025-06-22,Sudeste,Mouse,Periféricos,3,116.76,350.28
+2025-06-22,Sudeste,Cadeira Gamer,Móveis,6,1576.05,9456.3
+2025-06-23,Centro-Oeste,Monitor,Eletrônicos,6,1174.59,7047.54
+2025-06-23,Norte,Cadeira Gamer,Móveis,6,1389.53,8337.18
+2025-06-23,Centro-Oeste,Mesa,Móveis,7,898.31,6288.17
+2025-06-23,Norte,Mouse,Periféricos,5,129.31,646.55
+2025-06-25,Sudeste,Notebook,Eletrônicos,1,3497.84,3497.84
+2025-06-27,Centro-Oeste,Cadeira Gamer,Móveis,4,1635.9,6543.6
+2025-06-28,Sudeste,Mouse,Periféricos,4,116.35,465.4
+2025-06-29,Nordeste,Teclado,Periféricos,4,233.27,933.08
+2025-07-01,Sudeste,Mouse,Periféricos,7,109.73,768.11
+2025-07-02,Sul,Monitor,Eletrônicos,7,1195.17,8366.19
+2025-07-04,Sudeste,Notebook,Eletrônicos,5,3823.08,19115.4
+2025-07-04,Nordeste,Monitor,Eletrônicos,7,1142.48,7997.36
+2025-07-05,Nordeste,Monitor,Eletrônicos,2,1240.85,2481.7
+2025-07-06,Centro-Oeste,Notebook,Eletrônicos,5,3845.16,19225.8
+2025-07-08,Nordeste,Mesa,Móveis,7,834.88,5844.16
+2025-07-09,Sul,Notebook,Eletrônicos,4,3175.88,12703.52
+2025-07-10,Centro-Oeste,Cadeira Gamer,Móveis,5,1461.38,7306.9
+2025-07-10,Sudeste,Mesa,Móveis,1,893.7,893.7
+2025-07-11,Sul,Cadeira Gamer,Móveis,2,1452.72,2905.44
+2025-07-11,Centro-Oeste,Mouse,Periféricos,7,126.53,885.71
+2025-07-13,Sudeste,Mesa,Móveis,5,824.41,4122.05
+2025-07-13,Sudeste,Monitor,Eletrônicos,6,1263.55,7581.3
+2025-07-14,Centro-Oeste,Notebook,Eletrônicos,7,3844.24,26909.68
+2025-07-16,Norte,Teclado,Periféricos,6,263.69,1582.14
+2025-07-16,Norte,Cadeira Gamer,Móveis,6,1520.08,9120.48
+2025-07-16,Norte,Mouse,Periféricos,7,112.28,785.96
+2025-07-17,Sudeste,Notebook,Eletrônicos,2,3392.55,6785.1
+2025-07-18,Nordeste,Mouse,Periféricos,2,124.21,248.42
+2025-07-18,Sudeste,Monitor,Eletrônicos,6,1137.04,6822.24
+2025-07-19,Norte,Mouse,Periféricos,7,120.49,843.43
+2025-07-19,Sudeste,Monitor,Eletrônicos,1,1109.73,1109.73
+2025-07-21,Nordeste,Teclado,Periféricos,6,261.29,1567.74
+2025-07-21,Sudeste,Mesa,Móveis,7,896.67,6276.69
+2025-07-21,Norte,Teclado,Periféricos,2,241.12,482.24
+2025-07-22,Sudeste,Teclado,Periféricos,5,259.38,1296.9
+2025-07-24,Norte,Monitor,Eletrônicos,7,1140.78,7985.46
+2025-07-25,Norte,Cadeira Gamer,Móveis,1,1423.1,1423.1
+2025-07-25,Sudeste,Notebook,Eletrônicos,7,3294.77,23063.39
+2025-07-26,Sudeste,Cadeira Gamer,Móveis,1,1427.83,1427.83
+2025-07-28,Nordeste,Teclado,Periféricos,1,257.67,257.67
+2025-07-28,Sudeste,Notebook,Eletrônicos,4,3773.01,15092.04
+2025-07-30,Centro-Oeste,Cadeira Gamer,Móveis,4,1449.93,5799.72
+2025-08-01,Sul,Mouse,Periféricos,2,131.65,263.3
+2025-08-02,Centro-Oeste,Teclado,Periféricos,2,231.28,462.56
+2025-08-02,Norte,Monitor,Eletrônicos,6,1209.81,7258.86
+2025-08-02,Sudeste,Mesa,Móveis,4,904.52,3618.08
+2025-08-03,Centro-Oeste,Mesa,Móveis,1,826.93,826.93
+2025-08-03,Nordeste,Teclado,Periféricos,2,228.03,456.06
+2025-08-04,Sudeste,Teclado,Periféricos,7,257.46,1802.22
+2025-08-07,Sul,Mesa,Móveis,6,918.15,5508.9
+2025-08-07,Nordeste,Mouse,Periféricos,1,118.8,118.8
+2025-08-08,Sudeste,Notebook,Eletrônicos,7,3839.2,26874.4
+2025-08-09,Sudeste,Cadeira Gamer,Móveis,6,1594.39,9566.34
+2025-08-10,Sudeste,Teclado,Periféricos,7,225.88,1581.16
+2025-08-11,Sudeste,Teclado,Periféricos,4,236.73,946.92
+2025-08-11,Norte,Mouse,Periféricos,4,113.09,452.36
+2025-08-11,Centro-Oeste,Teclado,Periféricos,3,248.25,744.75
+2025-08-13,Sudeste,Teclado,Periféricos,7,272.92,1910.44
+2025-08-14,Sul,Teclado,Periféricos,4,237.18,948.72
+2025-08-15,Sul,Monitor,Eletrônicos,1,1089.86,1089.86
+2025-08-15,Centro-Oeste,Mesa,Móveis,4,822.93,3291.72
+2025-08-17,Nordeste,Mesa,Móveis,4,834.19,3336.76
+2025-08-17,Centro-Oeste,Cadeira Gamer,Móveis,3,1375.45,4126.35
+2025-08-17,Sul,Notebook,Eletrônicos,5,3415.34,17076.7
+2025-08-19,Sul,Teclado,Periféricos,6,240.63,1443.78
+2025-08-19,Norte,Notebook,Eletrônicos,2,3231.1,6462.2
+2025-08-19,Sudeste,Mouse,Periféricos,5,115.17,575.85
+2025-08-20,Sudeste,Teclado,Periféricos,2,256.73,513.46
+2025-08-22,Sul,Mouse,Periféricos,2,130.6,261.2
+2025-08-24,Sudeste,Cadeira Gamer,Móveis,7,1485.98,10401.86
+2025-08-24,Nordeste,Mesa,Móveis,1,963.24,963.24
+2025-08-25,Sul,Monitor,Eletrônicos,3,1282.67,3848.01
+2025-08-25,Sul,Cadeira Gamer,Móveis,7,1450.24,10151.68
+2025-08-25,Sudeste,Mesa,Móveis,7,943.51,6604.57
+2025-08-26,Norte,Monitor,Eletrônicos,5,1317.26,6586.3
+2025-08-27,Sul,Monitor,Eletrônicos,5,1219.44,6097.2
+2025-08-27,Sul,Notebook,Eletrônicos,3,3801.27,11403.81
+2025-08-27,Centro-Oeste,Mesa,Móveis,5,929.45,4647.25
+2025-08-28,Centro-Oeste,Cadeira Gamer,Móveis,7,1539.25,10774.75
+2025-08-28,Sudeste,Mesa,Móveis,1,973.63,973.63
+2025-08-28,Sul,Mesa,Móveis,5,968.59,4842.95
+2025-08-29,Sudeste,Teclado,Periféricos,2,243.61,487.22
+2025-08-29,Sudeste,Cadeira Gamer,Móveis,5,1480.13,7400.65
+2025-08-29,Sudeste,Monitor,Eletrônicos,2,1116.87,2233.74
+2025-08-30,Sul,Monitor,Eletrônicos,1,1161.33,1161.33
+2025-08-31,Centro-Oeste,Mouse,Periféricos,6,110.69,664.14
+2025-09-01,Norte,Cadeira Gamer,Móveis,1,1469.57,1469.57
+2025-09-01,Centro-Oeste,Monitor,Eletrônicos,6,1262.74,7576.44
+2025-09-03,Sudeste,Notebook,Eletrônicos,6,3748.84,22493.04
+2025-09-04,Sudeste,Cadeira Gamer,Móveis,4,1546.23,6184.92
+2025-09-04,Sul,Mesa,Móveis,2,831.72,1663.44
+2025-09-05,Nordeste,Mouse,Periféricos,2,123.38,246.76
+2025-09-06,Nordeste,Mouse,Periféricos,3,111.93,335.79
+2025-09-06,Sudeste,Teclado,Periféricos,4,274.23,1096.92
+2025-09-07,Sudeste,Teclado,Periféricos,5,234.42,1172.1
+2025-09-08,Sul,Notebook,Eletrônicos,4,3309.78,13239.12
+2025-09-08,Sudeste,Monitor,Eletrônicos,5,1106.23,5531.15
+2025-09-12,Sudeste,Cadeira Gamer,Móveis,1,1605.6,1605.6
+2025-09-13,Norte,Mesa,Móveis,5,943.1,4715.5
+2025-09-13,Nordeste,Monitor,Eletrônicos,5,1318.73,6593.65
+2025-09-13,Norte,Mesa,Móveis,6,822.09,4932.54
+2025-09-13,Sudeste,Mesa,Móveis,5,939.48,4697.4
+2025-09-14,Sudeste,Notebook,Eletrônicos,1,3178.66,3178.66
+2025-09-15,Sudeste,Teclado,Periféricos,4,267.64,1070.56
+2025-09-17,Centro-Oeste,Notebook,Eletrônicos,2,3227.48,6454.96
+2025-09-17,Sul,Mouse,Periféricos,6,120.2,721.2
+2025-09-18,Nordeste,Monitor,Eletrônicos,7,1286.16,9003.12
+2025-09-18,Centro-Oeste,Teclado,Periféricos,7,227.23,1590.61
+2025-09-18,Sul,Mouse,Periféricos,4,108.72,434.88
+2025-09-20,Sudeste,Mesa,Móveis,2,924.77,1849.54
+2025-09-20,Sul,Mouse,Periféricos,6,130.19,781.14
+2025-09-20,Sul,Mesa,Móveis,4,812.64,3250.56
+2025-09-22,Sul,Mesa,Móveis,2,947.32,1894.64
+2025-09-23,Norte,Teclado,Periféricos,4,226.56,906.24
+2025-09-23,Norte,Notebook,Eletrônicos,1,3669.88,3669.88
+2025-09-25,Sudeste,Notebook,Eletrônicos,5,3274.25,16371.25
+2025-09-26,Centro-Oeste,Monitor,Eletrônicos,5,1205.28,6026.4
+2025-09-26,Sul,Mouse,Periféricos,6,115.01,690.06
+2025-09-27,Nordeste,Notebook,Eletrônicos,7,3493.14,24451.98
+2025-09-27,Sul,Mouse,Periféricos,1,117.79,117.79
+2025-09-28,Sul,Mouse,Periféricos,5,114.92,574.6
+2025-09-29,Sul,Notebook,Eletrônicos,5,3552.41,17762.05
+2025-09-30,Sudeste,Mesa,Móveis,5,960.52,4802.6
+2025-09-30,Sul,Cadeira Gamer,Móveis,2,1601.72,3203.44
+2025-09-30,Norte,Mesa,Móveis,5,986.03,4930.15
+2025-09-30,Sudeste,Monitor,Eletrônicos,2,1090.84,2181.68
+2025-10-01,Sudeste,Monitor,Eletrônicos,6,1098.75,6592.5
+2025-10-01,Sudeste,Notebook,Eletrônicos,6,3289.68,19738.08
+2025-10-01,Sudeste,Teclado,Periféricos,2,274.52,549.04
+2025-10-02,Sul,Mouse,Periféricos,5,131.56,657.8
+2025-10-02,Nordeste,Cadeira Gamer,Móveis,4,1576.6,6306.4
+2025-10-02,Sudeste,Mesa,Móveis,1,932.86,932.86
+2025-10-02,Nordeste,Mesa,Móveis,7,941.6,6591.2
+2025-10-03,Centro-Oeste,Notebook,Eletrônicos,3,3558.96,10676.88
+2025-10-04,Nordeste,Cadeira Gamer,Móveis,5,1603.74,8018.7
+2025-10-05,Centro-Oeste,Notebook,Eletrônicos,6,3223.23,19339.38
+2025-10-06,Sudeste,Monitor,Eletrônicos,7,1141.02,7987.14
+2025-10-06,Sudeste,Teclado,Periféricos,6,244.62,1467.72
+2025-10-07,Sul,Cadeira Gamer,Móveis,3,1610.04,4830.12
+2025-10-07,Sudeste,Cadeira Gamer,Móveis,1,1560.26,1560.26
+2025-10-08,Sudeste,Teclado,Periféricos,4,263.87,1055.48
+2025-10-10,Sul,Cadeira Gamer,Móveis,4,1552.38,6209.52
+2025-10-10,Sudeste,Monitor,Eletrônicos,7,1250.46,8753.22
+2025-10-10,Sul,Cadeira Gamer,Móveis,7,1431.96,10023.72
+2025-10-12,Nordeste,Monitor,Eletrônicos,6,1146.73,6880.38
+2025-10-12,Norte,Mouse,Periféricos,7,128.99,902.93
+2025-10-15,Sul,Monitor,Eletrônicos,2,1198.59,2397.18
+2025-10-15,Nordeste,Teclado,Periféricos,1,255.17,255.17
+2025-10-16,Sudeste,Cadeira Gamer,Móveis,5,1559.46,7797.3
+2025-10-18,Nordeste,Cadeira Gamer,Móveis,6,1449.22,8695.32
+2025-10-19,Sudeste,Teclado,Periféricos,2,251.01,502.02
+2025-10-19,Sudeste,Monitor,Eletrônicos,4,1214.76,4859.04
+2025-10-20,Sudeste,Mouse,Periféricos,3,116.32,348.96
+2025-10-20,Nordeste,Notebook,Eletrônicos,4,3597.31,14389.24
+2025-10-21,Sul,Mesa,Móveis,2,865.36,1730.72
+2025-10-23,Centro-Oeste,Mesa,Móveis,2,859.47,1718.94
+2025-10-24,Centro-Oeste,Mouse,Periféricos,1,122.17,122.17
+2025-10-25,Sul,Notebook,Eletrônicos,2,3520.68,7041.36
+2025-10-27,Sul,Monitor,Eletrônicos,2,1316.02,2632.04
+2025-10-27,Nordeste,Mouse,Periféricos,5,115.64,578.2
+2025-10-28,Sudeste,Monitor,Eletrônicos,1,1084.36,1084.36
+2025-10-28,Sudeste,Cadeira Gamer,Móveis,2,1553.29,3106.58
+2025-10-28,Sul,Mouse,Periféricos,2,108.56,217.12
+2025-10-29,Nordeste,Mesa,Móveis,1,899.79,899.79
+2025-10-29,Sudeste,Mouse,Periféricos,2,121.02,242.04
+2025-10-30,Sul,Mouse,Periféricos,5,123.66,618.3
+2025-10-30,Sul,Mouse,Periféricos,6,130.56,783.36
+2025-10-31,Nordeste,Notebook,Eletrônicos,3,3492.65,10477.95
+2025-10-31,Sul,Mesa,Móveis,5,875.08,4375.4
+2025-11-03,Sul,Mesa,Móveis,5,951.09,4755.45
+2025-11-03,Norte,Mesa,Móveis,1,905.55,905.55
+2025-11-03,Sudeste,Notebook,Eletrônicos,3,3694.15,11082.45
+2025-11-04,Sul,Monitor,Eletrônicos,7,1319.7,9237.9
+2025-11-05,Norte,Notebook,Eletrônicos,2,3296.34,6592.68
+2025-11-05,Sul,Notebook,Eletrônicos,4,3777.29,15109.16
+2025-11-06,Sul,Cadeira Gamer,Móveis,7,1553.19,10872.33
+2025-11-07,Sul,Mesa,Móveis,5,921.92,4609.6
+2025-11-08,Sudeste,Notebook,Eletrônicos,6,3170.73,19024.38
+2025-11-08,Sudeste,Cadeira Gamer,Móveis,4,1468.39,5873.56
+2025-11-09,Norte,Mesa,Móveis,2,930.89,1861.78
+2025-11-11,Sudeste,Teclado,Periféricos,2,252.68,505.36
+2025-11-11,Sul,Notebook,Eletrônicos,5,3563.52,17817.6
+2025-11-11,Sudeste,Cadeira Gamer,Móveis,5,1595.49,7977.45
+2025-11-11,Sudeste,Cadeira Gamer,Móveis,6,1540.13,9240.78
+2025-11-14,Centro-Oeste,Cadeira Gamer,Móveis,6,1638.96,9833.76
+2025-11-15,Nordeste,Notebook,Eletrônicos,2,3629.19,7258.38
+2025-11-16,Sul,Notebook,Eletrônicos,6,3414.04,20484.24
+2025-11-16,Centro-Oeste,Monitor,Eletrônicos,7,1272.21,8905.47
+2025-11-17,Sudeste,Notebook,Eletrônicos,1,3665.69,3665.69
+2025-11-17,Sul,Cadeira Gamer,Móveis,6,1423.82,8542.92
+2025-11-17,Sudeste,Mesa,Móveis,7,916.89,6418.23
+2025-11-19,Sul,Mouse,Periféricos,7,118.0,826.0
+2025-11-20,Sudeste,Teclado,Periféricos,6,271.37,1628.22
+2025-11-21,Sul,Teclado,Periféricos,3,225.12,675.36
+2025-11-21,Norte,Mesa,Móveis,3,854.71,2564.13
+2025-11-22,Sudeste,Cadeira Gamer,Móveis,3,1425.96,4277.88
+2025-11-22,Nordeste,Cadeira Gamer,Móveis,1,1516.79,1516.79
+2025-11-22,Sudeste,Notebook,Eletrônicos,4,3645.66,14582.64
+2025-11-23,Sul,Mouse,Periféricos,1,113.89,113.89
+2025-11-23,Sudeste,Mesa,Móveis,4,825.14,3300.56
+2025-11-27,Nordeste,Notebook,Eletrônicos,1,3719.21,3719.21
+2025-11-28,Sudeste,Teclado,Periféricos,2,227.91,455.82
+2025-11-29,Sudeste,Teclado,Periféricos,3,274.23,822.69
+2025-11-30,Nordeste,Mouse,Periféricos,6,131.28,787.68
+2025-11-30,Nordeste,Cadeira Gamer,Móveis,5,1493.25,7466.25
+2025-11-30,Norte,Teclado,Periféricos,2,229.24,458.48
+2025-12-01,Sudeste,Mouse,Periféricos,6,111.02,666.12
+2025-12-02,Nordeste,Mesa,Móveis,4,978.37,3913.48
+2025-12-03,Norte,Cadeira Gamer,Móveis,6,1434.18,8605.08
+2025-12-04,Nordeste,Cadeira Gamer,Móveis,5,1565.29,7826.45
+2025-12-06,Sudeste,Cadeira Gamer,Móveis,2,1588.09,3176.18
+2025-12-06,Nordeste,Monitor,Eletrônicos,3,1296.39,3889.17
+2025-12-06,Sul,Teclado,Periféricos,4,239.04,956.16
+2025-12-07,Norte,Mouse,Periféricos,1,109.57,109.57
+2025-12-08,Centro-Oeste,Mouse,Periféricos,4,127.18,508.72
+2025-12-08,Sul,Mouse,Periféricos,5,120.42,602.1
+2025-12-08,Norte,Monitor,Eletrônicos,4,1203.51,4814.04
+2025-12-08,Centro-Oeste,Teclado,Periféricos,7,239.82,1678.74
+2025-12-09,Sul,Notebook,Eletrônicos,7,3228.12,22596.84
+2025-12-10,Sul,Monitor,Eletrônicos,5,1248.73,6243.65
+2025-12-12,Sudeste,Teclado,Periféricos,3,270.36,811.08
+2025-12-12,Sudeste,Notebook,Eletrônicos,4,3344.68,13378.72
+2025-12-12,Norte,Notebook,Eletrônicos,1,3508.91,3508.91
+2025-12-13,Sudeste,Cadeira Gamer,Móveis,2,1648.64,3297.28
+2025-12-14,Norte,Cadeira Gamer,Móveis,4,1496.91,5987.64
+2025-12-14,Sul,Notebook,Eletrônicos,1,3425.87,3425.87
+2025-12-15,Sudeste,Mesa,Móveis,1,839.32,839.32
+2025-12-15,Sudeste,Teclado,Periféricos,5,242.1,1210.5
+2025-12-17,Sudeste,Notebook,Eletrônicos,2,3674.99,7349.98
+2025-12-18,Nordeste,Monitor,Eletrônicos,1,1267.91,1267.91
+2025-12-18,Sudeste,Monitor,Eletrônicos,6,1091.75,6550.5
+2025-12-23,Sudeste,Mouse,Periféricos,3,127.74,383.22
+2025-12-23,Norte,Cadeira Gamer,Móveis,2,1389.33,2778.66
+2025-12-23,Sudeste,Mouse,Periféricos,3,122.88,368.64
+2025-12-24,Norte,Notebook,Eletrônicos,1,3435.56,3435.56
+2025-12-24,Sul,Monitor,Eletrônicos,5,1203.86,6019.3
+2025-12-26,Norte,Mesa,Móveis,5,811.93,4059.65
+2025-12-27,Sudeste,Teclado,Periféricos,4,255.44,1021.76
+2025-12-27,Sul,Monitor,Eletrônicos,4,1119.82,4479.28
+2025-12-28,Nordeste,Notebook,Eletrônicos,4,3771.3,15085.2
+2025-12-29,Sudeste,Mesa,Móveis,1,890.68,890.68
+2025-12-29,Nordeste,Mouse,Periféricos,6,119.06,714.36
+2025-12-30,Sul,Cadeira Gamer,Móveis,5,1649.27,8246.35
+2025-12-31,Sudeste,Monitor,Eletrônicos,4,1116.11,4464.44
+2025-12-31,Sudeste,Notebook,Eletrônicos,4,3221.33,12885.32
